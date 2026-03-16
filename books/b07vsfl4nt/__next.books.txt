@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/kindle-bookshelf/_next/static/chunks/ff1a16fafef87110.js","/kindle-bookshelf/_next/static/chunks/5d2013ea39502e59.js"],"default"]
-3:I[37457,["/kindle-bookshelf/_next/static/chunks/ff1a16fafef87110.js","/kindle-bookshelf/_next/static/chunks/5d2013ea39502e59.js"],"default"]
-0:{"buildId":"FHjOrZerF1l6XqKTbD034","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["/bookshelf/_next/static/chunks/ff1a16fafef87110.js","/bookshelf/_next/static/chunks/5d2013ea39502e59.js"],"default"]
+3:I[37457,["/bookshelf/_next/static/chunks/ff1a16fafef87110.js","/bookshelf/_next/static/chunks/5d2013ea39502e59.js"],"default"]
+0:{"buildId":"P9gwzbYNAPTdU8X0H9iBN","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
