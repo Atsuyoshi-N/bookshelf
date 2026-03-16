@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kindle Bookshelf
 
-## Getting Started
+Kindleの読書記録を本棚のように表示する静的サイト。
 
-First, run the development server:
+## セットアップ
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+http://localhost:3000 で確認できます。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 読書データの管理
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 方法1: Amazonデータエクスポートからインポート
 
-## Learn More
+詳しくは [scripts/README.md](scripts/README.md) を参照してください。
 
-To learn more about Next.js, take a look at the following resources:
+### 方法2: 手動で books.json を編集
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`data/books.json` を直接編集して本や読書セッションを追加できます。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```json
+{
+  "books": [
+    {
+      "id": "my-book",
+      "title": "本のタイトル",
+      "author": "著者名",
+      "isbn": "9784000000000",
+      "totalPages": 300,
+      "progressType": "page",
+      "sessions": [
+        { "date": "2026-03-01", "currentPage": 50 },
+        { "date": "2026-03-05", "currentPage": 130 }
+      ]
+    }
+  ]
+}
+```
 
-## Deploy on Vercel
+#### フィールド説明
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| フィールド | 必須 | 説明 |
+|-----------|------|------|
+| `id` | Yes | URL用のスラッグ（英数字・ハイフン） |
+| `title` | Yes | 本のタイトル |
+| `author` | Yes | 著者名 |
+| `isbn` | No | ISBN-13。設定すると表紙画像を自動取得 |
+| `coverUrl` | No | 表紙画像のURL（ISBNより優先） |
+| `totalPages` | No | 総ページ数（進捗バーの表示に使用） |
+| `progressType` | Yes | `"page"` または `"percent"` |
+| `sessions` | Yes | 読書セッションの配列 |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+#### セッションのフィールド
+
+| フィールド | 説明 |
+|-----------|------|
+| `date` | 読んだ日（YYYY-MM-DD） |
+| `currentPage` | その時点のページ数（`progressType: "page"` の場合） |
+| `currentPercent` | その時点の進捗%（`progressType: "percent"` の場合） |
+| `readingTimeMinutes` | 読書時間（分）。Amazonデータからの自動設定 |
+| `round` | 周回数（再読する場合。省略時は1） |
+
+読み終わった時点の **現在のページ数（または%）だけ** 記録すれば、前回との差分はシステムが自動計算します。
+
+## ビルド・デプロイ
+
+```bash
+# ビルド
+npm run build
+
+# ビルド結果のプレビュー
+npx serve out
+```
+
+### GitHub Pages
+
+`main` ブランチにpushすると `.github/workflows/deploy.yml` が自動でビルド・デプロイします。
+
+### Vercel
+
+リポジトリをVercelに接続するだけで自動デプロイされます。

@@ -1,0 +1,61 @@
+{
+  "books": [
+    {
+      "id": "clean-code",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "9784048930598",
+      "totalPages": 464,
+      "progressType": "page",
+      "sessions": [
+        { "date": "2026-03-01", "currentPage": 50 },
+        { "date": "2026-03-03", "currentPage": 130 },
+        { "date": "2026-03-07", "currentPage": 195 },
+        { "date": "2026-03-10", "currentPage": 285 }
+      ]
+    },
+    {
+      "id": "refactoring",
+      "title": "リファクタリング 既存のコードを安全に改善する",
+      "author": "Martin Fowler",
+      "isbn": "9784274224546",
+      "totalPages": 448,
+      "progressType": "page",
+      "sessions": [
+        { "date": "2026-02-15", "currentPage": 40 },
+        { "date": "2026-02-20", "currentPage": 95 },
+        { "date": "2026-02-25", "currentPage": 165 },
+        { "date": "2026-03-12", "currentPage": 225 }
+      ]
+    },
+    {
+      "id": "pragmatic-programmer",
+      "title": "達人プログラマー",
+      "author": "David Thomas, Andrew Hunt",
+      "isbn": "9784274226298",
+      "totalPages": 408,
+      "progressType": "page",
+      "sessions": [
+        { "date": "2025-12-20", "currentPage": 30, "round": 1 },
+        { "date": "2025-12-28", "currentPage": 75, "round": 1 },
+        { "date": "2026-01-05", "currentPage": 135, "round": 1 },
+        { "date": "2026-01-15", "currentPage": 408, "round": 1 },
+        { "date": "2026-03-01", "currentPage": 100, "round": 2 },
+        { "date": "2026-03-08", "currentPage": 250, "round": 2 }
+      ]
+    },
+    {
+      "id": "thinking-fast-and-slow",
+      "title": "ファスト&スロー",
+      "author": "ダニエル・カーネマン",
+      "isbn": "9784150504106",
+      "progressType": "percent",
+      "sessions": [
+        { "date": "2026-02-10", "currentPercent": 8 },
+        { "date": "2026-02-14", "currentPercent": 21 },
+        { "date": "2026-02-20", "currentPercent": 35 },
+        { "date": "2026-03-01", "currentPercent": 52 }
+      ]
+    }
+  ]
+}
