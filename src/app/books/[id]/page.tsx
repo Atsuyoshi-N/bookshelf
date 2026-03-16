@@ -95,9 +95,9 @@ export default async function BookPage({
         &larr; 本棚に戻る
       </Link>
 
-      <div className="flex flex-col md:flex-row gap-8">
-        <div className="shrink-0">
-          <div className="relative w-48 aspect-[2/3] rounded-lg overflow-hidden shadow-md bg-gray-100 dark:bg-gray-800">
+      <div className="flex flex-col sm:flex-row gap-6 sm:gap-8">
+        <div className="shrink-0 flex justify-center sm:justify-start">
+          <div className="relative w-36 sm:w-48 aspect-[2/3] rounded-lg overflow-hidden shadow-md bg-gray-100 dark:bg-gray-800">
             <Image
               src={book.resolvedCoverUrl}
               alt={book.title}
@@ -211,8 +211,8 @@ export default async function BookPage({
                     {round}周目
                   </h3>
                 )}
-                <div className="bg-card-bg border border-card-border rounded-lg overflow-hidden">
-                  <table className="w-full text-sm">
+                <div className="bg-card-bg border border-card-border rounded-lg overflow-x-auto">
+                  <table className="w-full text-sm min-w-[400px]">
                     <thead>
                       <tr className="border-b border-card-border">
                         <th className="text-left px-4 py-3 font-medium">
