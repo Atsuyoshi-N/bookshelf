@@ -38,8 +38,6 @@ function getProgressLabel(book: Book): string {
 }
 
 export function BookShelf({ books }: { books: Book[] }) {
-  const [selectedYear, setSelectedYear] = useState<number | null>(null);
-
   const allYears = useMemo(() => {
     const years = new Set<number>();
     for (const book of books) {
@@ -49,6 +47,10 @@ export function BookShelf({ books }: { books: Book[] }) {
     }
     return Array.from(years).sort((a, b) => b - a);
   }, [books]);
+
+  const [selectedYear, setSelectedYear] = useState<number | null>(
+    allYears[0] ?? null
+  );
 
   const filteredBooks = useMemo(() => {
     if (selectedYear === null) return books;
@@ -95,7 +97,7 @@ export function BookShelf({ books }: { books: Book[] }) {
       </div>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-5">
-        {filteredBooks.map((book) => {
+        {filteredBooks.map((book, index) => {
           const progress = getProgress(book);
           return (
             <Link
@@ -111,6 +113,8 @@ export function BookShelf({ books }: { books: Book[] }) {
                     fill
                     className="object-contain"
                     sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 20vw"
+                    priority={index < 10}
+                    loading={index < 10 ? undefined : "lazy"}
                   />
                 </div>
                 <div className="p-3">

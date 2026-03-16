@@ -22,13 +22,15 @@ const BOOKS_JSON_PATH = path.join(__dirname, "..", "data", "books.json");
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  const parsed = { dryRun: false, all: false, delay: 500 };
+  const parsed = { dryRun: false, all: false, delay: 500, asinsFile: null };
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--dry-run") parsed.dryRun = true;
     else if (args[i] === "--all") parsed.all = true;
     else if (args[i] === "--delay" && args[i + 1]) {
       parsed.delay = parseInt(args[++i], 10);
+    } else if (args[i] === "--asins-file" && args[i + 1]) {
+      parsed.asinsFile = args[++i];
     }
   }
 
@@ -148,9 +150,15 @@ async function main() {
   const data = JSON.parse(fs.readFileSync(BOOKS_JSON_PATH, "utf-8"));
   const books = data.books;
 
+  // Load ASIN filter if specified
+  const asinFilter = args.asinsFile
+    ? new Set(fs.readFileSync(args.asinsFile, "utf-8").trim().split("\n").map((s) => s.trim()).filter(Boolean))
+    : null;
+
   const targets = books.filter((b) => {
     if (!b.title || b.title.startsWith("不明") || b.title === "Amazon.co.jp")
       return false;
+    if (asinFilter && !asinFilter.has(b.asin)) return false;
     if (args.all) return true;
     return !b.coverUrl;
   });

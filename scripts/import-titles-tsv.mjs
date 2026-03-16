@@ -26,11 +26,14 @@ const BOOKS_JSON_PATH = path.join(__dirname, "..", "data", "books.json");
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  const parsed = { file: null, dryRun: false };
+  const parsed = { file: null, dryRun: false, outputAsins: null };
 
-  for (const arg of args) {
-    if (arg === "--dry-run") parsed.dryRun = true;
-    else if (!parsed.file) parsed.file = arg;
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === "--dry-run") parsed.dryRun = true;
+    else if (args[i] === "--output-asins" && args[i + 1]) {
+      parsed.outputAsins = args[++i];
+    }
+    else if (!parsed.file) parsed.file = args[i];
   }
 
   return parsed;
@@ -117,6 +120,7 @@ function main() {
   let updated = 0;
   let skipped = 0;
   let notFound = 0;
+  const updatedAsins = [];
 
   for (const entry of entries) {
     const book = bookMap.get(entry.asin);
@@ -147,7 +151,12 @@ function main() {
 
     console.log(`  [更新] ${entry.asin}`);
     for (const c of changes) console.log(`         ${c}`);
+    updatedAsins.push(entry.asin);
     updated++;
+  }
+
+  if (args.outputAsins && updatedAsins.length > 0) {
+    fs.writeFileSync(args.outputAsins, updatedAsins.join("\n") + "\n");
   }
 
   console.log();

@@ -139,22 +139,23 @@ async function fetchTitleFromAmazon(asin) {
     // Try to find total pages
     let totalPages = null;
 
-    // "print_length" or "ページ数" in detail bullets
-    const pagesMatch = html.match(
-      /(\d+)\s*ページ/
+    // Look for page count in product detail sections only (not in recommendations/ads)
+    // Match patterns like: "print_length">561</span> or ページ数</th>...<td>123ページ
+    const printLenMatch = html.match(
+      /print_length[^>]*>\s*(\d+)/i
     );
-    if (pagesMatch) {
-      const p = parseInt(pagesMatch[1], 10);
+    if (printLenMatch) {
+      const p = parseInt(printLenMatch[1], 10);
       if (p > 0 && p < 100000) totalPages = p;
     }
 
-    // Try "print_length" from detail list
+    // Try detail table: ページ数 header followed by value
     if (!totalPages) {
-      const printLenMatch = html.match(
-        /print_length[^>]*>\s*(\d+)/i
+      const detailMatch = html.match(
+        /ページ数\s*<\/[^>]+>\s*<[^>]+>\s*(\d+)/
       );
-      if (printLenMatch) {
-        const p = parseInt(printLenMatch[1], 10);
+      if (detailMatch) {
+        const p = parseInt(detailMatch[1], 10);
         if (p > 0 && p < 100000) totalPages = p;
       }
     }

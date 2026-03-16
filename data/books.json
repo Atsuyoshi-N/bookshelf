@@ -33,7 +33,8 @@
           "currentPage": 143,
           "readingTimeMinutes": 11
         }
-      ]
+      ],
+      "totalPages": 323
     },
     {
       "id": "b0bplf1gqq",
@@ -203,7 +204,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=K0D6EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=K0D6EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065351543"
     },
     {
       "id": "b0gp5q5j8c",
@@ -364,7 +366,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=pBDdEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=pBDdEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065332610"
     },
     {
       "id": "b08wlrpj86",
@@ -398,7 +401,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=YQkeEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=YQkeEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065222539"
     },
     {
       "id": "b0972jc8zq",
@@ -443,7 +447,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=WkgzEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=WkgzEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065236079"
     },
     {
       "id": "b09v7mnt95",
@@ -507,7 +512,8 @@
         }
       ],
       "totalPages": 187,
-      "coverUrl": "https://books.google.com/books/content?id=ZshjEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ZshjEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065271322"
     },
     {
       "id": "b09hzh613v",
@@ -561,7 +567,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=wJtHEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=wJtHEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065251621"
     },
     {
       "id": "b0871xpkx6",
@@ -577,7 +584,8 @@
         }
       ],
       "totalPages": 259,
-      "coverUrl": "https://books.google.com/books/content?id=GHTcDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=GHTcDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784262129310"
     },
     {
       "id": "b08mvxpw3v",
@@ -644,7 +652,8 @@
         }
       ],
       "totalPages": 171,
-      "coverUrl": "https://books.google.com/books/content?id=MbusEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=MbusEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065418604"
     },
     {
       "id": "b0g6kp2z18",
@@ -752,7 +761,8 @@
         }
       ],
       "totalPages": 261,
-      "coverUrl": "https://books.google.com/books/content?id=S5GUEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=S5GUEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088847634"
     },
     {
       "id": "b0cqb8658f",
@@ -785,7 +795,8 @@
           "currentPage": 0
         }
       ],
-      "isbn": "9784150125073"
+      "isbn": "9784150125073",
+      "totalPages": 315
     },
     {
       "id": "b0g1m7h86v",
@@ -929,7 +940,8 @@
         }
       ],
       "totalPages": 205,
-      "coverUrl": "https://books.google.com/books/content?id=ioV6EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ioV6EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065285152"
     },
     {
       "id": "b0cxwpt97p",
@@ -971,7 +983,9 @@
           "currentPage": 269,
           "readingTimeMinutes": 88
         }
-      ]
+      ],
+      "isbn": "9784299043023",
+      "totalPages": 159
     },
     {
       "id": "b0g6k6dl2h",
@@ -1035,7 +1049,9 @@
           "currentPage": 661,
           "readingTimeMinutes": 7
         }
-      ]
+      ],
+      "isbn": "9784063957792",
+      "totalPages": 183
     },
     {
       "id": "b0fvhhdf2f",
@@ -1094,7 +1110,8 @@
           "currentPage": 288,
           "readingTimeMinutes": 7
         }
-      ]
+      ],
+      "isbn": "9784063956887"
     },
     {
       "id": "b0cb67ymr9",
@@ -1116,7 +1133,8 @@
           "date": "2026-02-11",
           "currentPage": 194
         }
-      ]
+      ],
+      "isbn": "9784063957273"
     },
     {
       "id": "b0bzhc2rw3",
@@ -1136,7 +1154,8 @@
           "readingTimeMinutes": 121
         }
       ],
-      "isbn": "9784802212342"
+      "isbn": "9784802212342",
+      "totalPages": 275
     },
     {
       "id": "b0cb65qxc2",
@@ -1159,7 +1178,8 @@
           "currentPage": 380,
           "readingTimeMinutes": 16
         }
-      ]
+      ],
+      "isbn": "9784063956030"
     },
     {
       "id": "b0cb67gsnf",
@@ -1181,7 +1201,8 @@
           "date": "2026-02-10",
           "currentPage": 190
         }
-      ]
+      ],
+      "isbn": "9784063956528"
     },
     {
       "id": "b0bb6g7h8d",
@@ -1202,7 +1223,8 @@
         }
       ],
       "totalPages": 209,
-      "coverUrl": "https://books.google.com/books/content?id=BEeFEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=BEeFEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784763139795"
     },
     {
       "id": "b071zs2y3w",
@@ -1242,7 +1264,8 @@
         }
       ],
       "totalPages": 217,
-      "coverUrl": "https://books.google.com/books/content?id=fEcmDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=fEcmDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784905073604"
     },
     {
       "id": "b0b3mjnc7n",
@@ -1287,7 +1310,8 @@
         }
       ],
       "totalPages": 181,
-      "coverUrl": "https://books.google.com/books/content?id=cgx0EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=cgx0EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784761276157"
     },
     {
       "id": "b0dchl1ck1",
@@ -1336,7 +1360,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=ybAYEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ybAYEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065364727"
     },
     {
       "id": "b0cb686jm8",
@@ -1368,7 +1393,8 @@
           "currentPage": 713,
           "readingTimeMinutes": 14
         }
-      ]
+      ],
+      "isbn": "9784063958546"
     },
     {
       "id": "b0cb63t45x",
@@ -1395,7 +1421,8 @@
           "date": "2026-01-28",
           "currentPage": 372
         }
-      ]
+      ],
+      "isbn": "9784063958966"
     },
     {
       "id": "b0cb66h93q",
@@ -1423,7 +1450,8 @@
           "currentPage": 321,
           "readingTimeMinutes": 3
         }
-      ]
+      ],
+      "isbn": "9784063954883"
     },
     {
       "id": "b0cb661bmx",
@@ -1455,7 +1483,8 @@
           "date": "2026-01-27",
           "currentPage": 475
         }
-      ]
+      ],
+      "isbn": "9784063954371"
     },
     {
       "id": "b08hyx8fd1",
@@ -1481,7 +1510,8 @@
         }
       ],
       "totalPages": 292,
-      "coverUrl": "https://books.google.com/books/content?id=cdH8DwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=cdH8DwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065207833"
     },
     {
       "id": "b0dn641nsp",
@@ -1552,7 +1582,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=AbtkEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=AbtkEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065397053"
     },
     {
       "id": "b0dnsw2xsp",
@@ -1576,7 +1607,9 @@
           "currentPage": 346,
           "readingTimeMinutes": 40
         }
-      ]
+      ],
+      "isbn": "9784198659042",
+      "totalPages": 310
     },
     {
       "id": "b00u5mvxzo",
@@ -1696,7 +1729,8 @@
         }
       ],
       "totalPages": 171,
-      "coverUrl": "https://books.google.com/books/content?id=6e88EQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=6e88EQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065380123"
     },
     {
       "id": "b0c4snws6g",
@@ -1755,7 +1789,8 @@
         }
       ],
       "totalPages": 187,
-      "coverUrl": "https://books.google.com/books/content?id=Qjm-EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=Qjm-EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065316825"
     },
     {
       "id": "b00izxb3hs",
@@ -1774,7 +1809,8 @@
         }
       ],
       "totalPages": 197,
-      "coverUrl": "https://books.google.com/books/content?id=RusSAwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=RusSAwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041210123"
     },
     {
       "id": "b01mslqjey",
@@ -1792,7 +1828,9 @@
           "date": "2026-01-14",
           "currentPage": 504
         }
-      ]
+      ],
+      "isbn": "9784041052297",
+      "totalPages": 205
     },
     {
       "id": "b015x4uspy",
@@ -1813,7 +1851,8 @@
         }
       ],
       "totalPages": 191,
-      "coverUrl": "https://books.google.com/books/content?id=BkSfCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=BkSfCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041029145"
     },
     {
       "id": "b01diiq9v4",
@@ -1827,7 +1866,9 @@
           "currentPage": 165,
           "readingTimeMinutes": 15
         }
-      ]
+      ],
+      "isbn": "9784041039328",
+      "totalPages": 149
     },
     {
       "id": "b071ckc3l7",
@@ -1840,7 +1881,9 @@
           "date": "2026-01-13",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784041056431",
+      "totalPages": 203
     },
     {
       "id": "b00vfe63y2",
@@ -1855,7 +1898,8 @@
         }
       ],
       "totalPages": 193,
-      "coverUrl": "https://books.google.com/books/content?id=QCLGBwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=QCLGBwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041029138"
     },
     {
       "id": "b00p23yh7m",
@@ -1870,7 +1914,8 @@
         }
       ],
       "totalPages": 191,
-      "coverUrl": "https://books.google.com/books/content?id=U1MyBQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=U1MyBQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041016770"
     },
     {
       "id": "b00gd4gmek",
@@ -1885,7 +1930,8 @@
         }
       ],
       "totalPages": 197,
-      "coverUrl": "https://books.google.com/books/content?id=SzAWAgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=SzAWAgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041208748"
     },
     {
       "id": "b00kig2z9k",
@@ -1900,7 +1946,8 @@
         }
       ],
       "totalPages": 193,
-      "coverUrl": "https://books.google.com/books/content?id=w-SeAwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=w-SeAwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041211175"
     },
     {
       "id": "b00eq2zm92",
@@ -1914,7 +1961,9 @@
           "currentPage": 639,
           "readingTimeMinutes": 89
         }
-      ]
+      ],
+      "isbn": "9784041207833",
+      "totalPages": 174
     },
     {
       "id": "b078wpyhgn",
@@ -2053,7 +2102,8 @@
           "currentPage": 1325,
           "readingTimeMinutes": 12
         }
-      ]
+      ],
+      "isbn": "9784764904088"
     },
     {
       "id": "b071gn3jn2",
@@ -2200,7 +2250,9 @@
           "currentPage": 260,
           "readingTimeMinutes": 2
         }
-      ]
+      ],
+      "isbn": "9784046057525",
+      "totalPages": 127
     },
     {
       "id": "b0fn3nnrlb",
@@ -2247,7 +2299,9 @@
           "currentPage": 366,
           "readingTimeMinutes": 24
         }
-      ]
+      ],
+      "isbn": "9784478120378",
+      "totalPages": 303
     },
     {
       "id": "b08lg3v7jk",
@@ -2266,7 +2320,9 @@
           "currentPage": 451,
           "readingTimeMinutes": 17
         }
-      ]
+      ],
+      "isbn": "9784041107058",
+      "totalPages": 216
     },
     {
       "id": "b08j6bgxbf",
@@ -2285,7 +2341,9 @@
           "currentPage": 377,
           "readingTimeMinutes": 11
         }
-      ]
+      ],
+      "isbn": "9784041085899",
+      "totalPages": 215
     },
     {
       "id": "b079vmsmdh",
@@ -2304,7 +2362,9 @@
           "currentPage": 189,
           "readingTimeMinutes": 13
         }
-      ]
+      ],
+      "isbn": "9784041057919",
+      "totalPages": 170
     },
     {
       "id": "b07hgrs5jk",
@@ -2318,7 +2378,9 @@
           "currentPage": 215,
           "readingTimeMinutes": 22
         }
-      ]
+      ],
+      "isbn": "9784041071557",
+      "totalPages": 180
     },
     {
       "id": "b07nv6z5wc",
@@ -2334,7 +2396,8 @@
         }
       ],
       "totalPages": 203,
-      "coverUrl": "https://books.google.com/books/content?id=ESqKDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ESqKDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041071588"
     },
     {
       "id": "b07y1kyqy4",
@@ -2348,7 +2411,9 @@
           "currentPage": 235,
           "readingTimeMinutes": 28
         }
-      ]
+      ],
+      "isbn": "9784041085882",
+      "totalPages": 220
     },
     {
       "id": "b072wn8skk",
@@ -2362,7 +2427,9 @@
           "currentPage": 187,
           "readingTimeMinutes": 16
         }
-      ]
+      ],
+      "isbn": "9784041057902",
+      "totalPages": 168
     },
     {
       "id": "b01msyhx4l",
@@ -2376,7 +2443,9 @@
           "currentPage": 199,
           "readingTimeMinutes": 14
         }
-      ]
+      ],
+      "isbn": "9784041050385",
+      "totalPages": 184
     },
     {
       "id": "b0129krsz8",
@@ -2390,7 +2459,9 @@
           "currentPage": 203,
           "readingTimeMinutes": 19
         }
-      ]
+      ],
+      "isbn": "9784041028698",
+      "totalPages": 187
     },
     {
       "id": "b00r3xzmxw",
@@ -2408,7 +2479,9 @@
           "currentPage": 202,
           "readingTimeMinutes": 20
         }
-      ]
+      ],
+      "isbn": "9784041015315",
+      "totalPages": 190
     },
     {
       "id": "b018l6mz0m",
@@ -2422,7 +2495,9 @@
           "currentPage": 207,
           "readingTimeMinutes": 18
         }
-      ]
+      ],
+      "isbn": "9784041028704",
+      "totalPages": 190
     },
     {
       "id": "b01j9c57xe",
@@ -2436,7 +2511,9 @@
           "currentPage": 217,
           "readingTimeMinutes": 22
         }
-      ]
+      ],
+      "isbn": "9784041042816",
+      "totalPages": 202
     },
     {
       "id": "b071sl8gty",
@@ -2485,7 +2562,9 @@
           "currentPage": 204,
           "readingTimeMinutes": 9
         }
-      ]
+      ],
+      "isbn": "9784041015308",
+      "totalPages": 190
     },
     {
       "id": "b0bk94r2ln",
@@ -2520,7 +2599,9 @@
           "currentPage": 203,
           "readingTimeMinutes": 18
         }
-      ]
+      ],
+      "isbn": "9784041209417",
+      "totalPages": 186
     },
     {
       "id": "b00cyy7a3u",
@@ -2539,7 +2620,9 @@
           "currentPage": 203,
           "readingTimeMinutes": 3
         }
-      ]
+      ],
+      "isbn": "9784041206263",
+      "totalPages": 186
     },
     {
       "id": "b00evq02kw",
@@ -2553,7 +2636,9 @@
           "currentPage": 217,
           "readingTimeMinutes": 18
         }
-      ]
+      ],
+      "isbn": "9784041208267",
+      "totalPages": 180
     },
     {
       "id": "b00c40eqig",
@@ -2567,7 +2652,9 @@
           "currentPage": 202,
           "readingTimeMinutes": 19
         }
-      ]
+      ],
+      "isbn": "9784041203293",
+      "totalPages": 188
     },
     {
       "id": "b0093galva",
@@ -2583,7 +2670,8 @@
         }
       ],
       "totalPages": 199,
-      "coverUrl": "https://books.google.com/books/content?id=-tJPELCYfdwC&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=-tJPELCYfdwC&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784041201251"
     },
     {
       "id": "b0093g5o26",
@@ -2597,7 +2685,9 @@
           "currentPage": 164,
           "readingTimeMinutes": 14
         }
-      ]
+      ],
+      "isbn": "9784046313485",
+      "totalPages": 239
     },
     {
       "id": "b0093g5tia",
@@ -2611,7 +2701,9 @@
           "currentPage": 58,
           "readingTimeMinutes": 8
         }
-      ]
+      ],
+      "isbn": "9784046313843",
+      "totalPages": 188
     },
     {
       "id": "b00nq3qonk",
@@ -2635,7 +2727,9 @@
           "currentPage": 183,
           "readingTimeMinutes": 13
         }
-      ]
+      ],
+      "isbn": "9784140816585",
+      "totalPages": 253
     },
     {
       "id": "b0g4ct7jwf",
@@ -2674,7 +2768,8 @@
           "currentPage": 387,
           "readingTimeMinutes": 14
         }
-      ]
+      ],
+      "isbn": "9784063959444"
     },
     {
       "id": "b0cb66rqlc",
@@ -2701,7 +2796,8 @@
           "date": "2025-11-30",
           "currentPage": 884
         }
-      ]
+      ],
+      "isbn": "9784063847932"
     },
     {
       "id": "b0cb663p75",
@@ -2723,7 +2819,8 @@
           "date": "2025-11-29",
           "currentPage": 189
         }
-      ]
+      ],
+      "isbn": "9784063847475"
     },
     {
       "id": "b0cb676th9",
@@ -2745,7 +2842,8 @@
           "date": "2025-11-29",
           "currentPage": 188
         }
-      ]
+      ],
+      "isbn": "9784063847314"
     },
     {
       "id": "b0cb66rqbn",
@@ -2768,7 +2866,9 @@
           "currentPage": 578,
           "readingTimeMinutes": 32
         }
-      ]
+      ],
+      "isbn": "9784063846874",
+      "totalPages": 181
     },
     {
       "id": "b096zwl6bb",
@@ -2807,7 +2907,8 @@
         }
       ],
       "totalPages": 208,
-      "coverUrl": "https://books.google.com/books/content?id=vIwyEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=vIwyEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784151832536"
     },
     {
       "id": "b0cb677kqp",
@@ -2830,7 +2931,8 @@
           "currentPage": 937,
           "readingTimeMinutes": 11
         }
-      ]
+      ],
+      "isbn": "9784063955606"
     },
     {
       "id": "b0cb66ctqr",
@@ -2843,7 +2945,8 @@
           "date": "2025-11-23",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063952438"
     },
     {
       "id": "b0cb673p26",
@@ -2856,7 +2959,8 @@
           "date": "2025-11-23",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063952896"
     },
     {
       "id": "b0cb6942l8",
@@ -2874,7 +2978,8 @@
           "currentPage": 653,
           "readingTimeMinutes": 59
         }
-      ]
+      ],
+      "isbn": "9784063950786"
     },
     {
       "id": "b0cb67qgyk",
@@ -2887,7 +2992,9 @@
           "date": "2025-11-23",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063953459",
+      "totalPages": 183
     },
     {
       "id": "b0cb688r8v",
@@ -2900,7 +3007,8 @@
           "date": "2025-11-23",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063954012"
     },
     {
       "id": "b0cb68g944",
@@ -2913,7 +3021,9 @@
           "date": "2025-11-23",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063951882",
+      "totalPages": 178
     },
     {
       "id": "b0cb66tny2",
@@ -2931,7 +3041,9 @@
           "currentPage": 1035,
           "readingTimeMinutes": 94
         }
-      ]
+      ],
+      "isbn": "9784063844177",
+      "totalPages": 161
     },
     {
       "id": "b0cb66dfnw",
@@ -2944,7 +3056,9 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063950243",
+      "totalPages": 178
     },
     {
       "id": "b0cb678g7x",
@@ -2957,7 +3071,9 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063844740",
+      "totalPages": 159
     },
     {
       "id": "b0cb67n3b9",
@@ -2970,7 +3086,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063845044"
     },
     {
       "id": "b0cb66z6jt",
@@ -2983,7 +3100,9 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063846423",
+      "totalPages": 173
     },
     {
       "id": "b0cb66xp6l",
@@ -2996,7 +3115,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063845518"
     },
     {
       "id": "b0cb67hgj1",
@@ -3009,7 +3129,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063848632"
     },
     {
       "id": "b0cb67mgds",
@@ -3022,7 +3143,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063846133"
     },
     {
       "id": "b0cb68dy9l",
@@ -3035,7 +3157,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063844443"
     },
     {
       "id": "b0cb68cppm",
@@ -3048,7 +3171,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063949421"
     },
     {
       "id": "b0cb67jwyy",
@@ -3061,7 +3185,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063848267"
     },
     {
       "id": "b0cb68sq7s",
@@ -3074,7 +3199,8 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063845792"
     },
     {
       "id": "b0cb66v169",
@@ -3087,7 +3213,9 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063949094",
+      "totalPages": 173
     },
     {
       "id": "b0cb67kdgd",
@@ -3100,7 +3228,9 @@
           "date": "2025-11-22",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063949834",
+      "totalPages": 187
     },
     {
       "id": "b0cb667g5c",
@@ -3115,7 +3245,8 @@
         }
       ],
       "totalPages": 729,
-      "coverUrl": "https://books.google.com/books/content?id=fq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=fq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063841220"
     },
     {
       "id": "b0cb677kpw",
@@ -3130,7 +3261,8 @@
         }
       ],
       "totalPages": 733,
-      "coverUrl": "https://books.google.com/books/content?id=gK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=gK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063639728"
     },
     {
       "id": "b0cb69xxkl",
@@ -3144,7 +3276,9 @@
           "currentPage": 94,
           "readingTimeMinutes": 11
         }
-      ]
+      ],
+      "isbn": "9784063843620",
+      "totalPages": 161
     },
     {
       "id": "b0cb692lq2",
@@ -3160,7 +3294,8 @@
         }
       ],
       "totalPages": 1281,
-      "coverUrl": "https://books.google.com/books/content?id=9SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=9SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063639506"
     },
     {
       "id": "b0cb67f22m",
@@ -3173,7 +3308,8 @@
           "date": "2025-11-21",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063842098"
     },
     {
       "id": "b0cb68j2gp",
@@ -3188,7 +3324,8 @@
         }
       ],
       "totalPages": 1103,
-      "coverUrl": "https://books.google.com/books/content?id=8SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=8SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063637496"
     },
     {
       "id": "b0cb64wgt1",
@@ -3201,7 +3338,8 @@
           "date": "2025-11-21",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063841466"
     },
     {
       "id": "b0cb69y83j",
@@ -3214,7 +3352,8 @@
           "date": "2025-11-21",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063841718"
     },
     {
       "id": "b0cb68vsp4",
@@ -3229,7 +3368,8 @@
         }
       ],
       "totalPages": 745,
-      "coverUrl": "https://books.google.com/books/content?id=2K0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=2K0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063638882"
     },
     {
       "id": "b0cb675ctx",
@@ -3244,7 +3384,8 @@
         }
       ],
       "totalPages": 731,
-      "coverUrl": "https://books.google.com/books/content?id=Kq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=Kq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063639124"
     },
     {
       "id": "b0cb67sqqs",
@@ -3259,7 +3400,8 @@
         }
       ],
       "totalPages": 741,
-      "coverUrl": "https://books.google.com/books/content?id=HK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=HK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063638424"
     },
     {
       "id": "b0cb67j9zr",
@@ -3274,7 +3416,8 @@
         }
       ],
       "totalPages": 739,
-      "coverUrl": "https://books.google.com/books/content?id=aK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=aK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063840858"
     },
     {
       "id": "b0cb696hfs",
@@ -3287,7 +3430,9 @@
           "date": "2025-11-21",
           "currentPage": 1
         }
-      ]
+      ],
+      "isbn": "9784063842470",
+      "totalPages": 177
     },
     {
       "id": "b0cb69pk5y",
@@ -3301,7 +3446,9 @@
           "currentPage": 192,
           "readingTimeMinutes": 20
         }
-      ]
+      ],
+      "isbn": "9784063843125",
+      "totalPages": 117
     },
     {
       "id": "b0cb654p6y",
@@ -3317,7 +3464,8 @@
         }
       ],
       "totalPages": 723,
-      "coverUrl": "https://books.google.com/books/content?id=iq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=iq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063840636"
     },
     {
       "id": "b0cb68hdgn",
@@ -3332,7 +3480,8 @@
         }
       ],
       "totalPages": 735,
-      "coverUrl": "https://books.google.com/books/content?id=jK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=jK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063638196"
     },
     {
       "id": "b0cb67gbzv",
@@ -3345,7 +3494,8 @@
           "date": "2025-11-21",
           "currentPage": 2
         }
-      ]
+      ],
+      "isbn": "9784063842814"
     },
     {
       "id": "b0cb67bwnc",
@@ -3360,7 +3510,8 @@
         }
       ],
       "totalPages": 727,
-      "coverUrl": "https://books.google.com/books/content?id=Jq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=Jq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063840018"
     },
     {
       "id": "b0cb66kmxr",
@@ -3375,7 +3526,8 @@
         }
       ],
       "totalPages": 739,
-      "coverUrl": "https://books.google.com/books/content?id=Yq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=Yq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063637946"
     },
     {
       "id": "b0cb68c3rf",
@@ -3391,7 +3543,8 @@
         }
       ],
       "totalPages": 573,
-      "coverUrl": "https://books.google.com/books/content?id=oq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=oq0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063637250"
     },
     {
       "id": "b0cb671f9z",
@@ -3407,7 +3560,8 @@
         }
       ],
       "totalPages": 733,
-      "coverUrl": "https://books.google.com/books/content?id=oK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=oK0lEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063840223"
     },
     {
       "id": "b0cb6857cp",
@@ -3423,7 +3577,8 @@
         }
       ],
       "totalPages": 1121,
-      "coverUrl": "https://books.google.com/books/content?id=cyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=cyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063637120"
     },
     {
       "id": "b08z3zgr4j",
@@ -3516,7 +3671,9 @@
           "date": "2025-10-28",
           "currentPage": 2
         }
-      ]
+      ],
+      "isbn": "9784063725780",
+      "totalPages": 209
     },
     {
       "id": "b0cb69crqc",
@@ -3536,7 +3693,8 @@
         }
       ],
       "totalPages": 1033,
-      "coverUrl": "https://books.google.com/books/content?id=YyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=YyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063724226"
     },
     {
       "id": "b0cb66sb6j",
@@ -3557,7 +3715,8 @@
         }
       ],
       "totalPages": 1232,
-      "coverUrl": "https://books.google.com/books/content?id=BSQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=BSQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063725568"
     },
     {
       "id": "b0cb68gbr8",
@@ -3571,7 +3730,9 @@
           "currentPage": 217,
           "readingTimeMinutes": 45
         }
-      ]
+      ],
+      "isbn": "9784063725698",
+      "totalPages": 205
     },
     {
       "id": "b0cb67ptz5",
@@ -3591,7 +3752,8 @@
         }
       ],
       "totalPages": 1209,
-      "coverUrl": "https://books.google.com/books/content?id=3SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=3SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "406372543"
     },
     {
       "id": "b0bx878mfb",
@@ -3621,7 +3783,8 @@
         }
       ],
       "totalPages": 1219,
-      "coverUrl": "https://books.google.com/books/content?id=NyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=NyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063724905"
     },
     {
       "id": "b0cb66nfdb",
@@ -3636,7 +3799,8 @@
         }
       ],
       "totalPages": 1215,
-      "coverUrl": "https://books.google.com/books/content?id=ESQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ESQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063725100"
     },
     {
       "id": "b0cb67knyq",
@@ -3652,7 +3816,8 @@
         }
       ],
       "totalPages": 1043,
-      "coverUrl": "https://books.google.com/books/content?id=OSQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=OSQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063724776"
     },
     {
       "id": "b0csffbx6f",
@@ -3701,7 +3866,8 @@
         }
       ],
       "totalPages": 1013,
-      "coverUrl": "https://books.google.com/books/content?id=5SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=5SMyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063724356"
     },
     {
       "id": "b0cb66fhzy",
@@ -3717,7 +3883,8 @@
         }
       ],
       "totalPages": 1017,
-      "coverUrl": "https://books.google.com/books/content?id=ZyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ZyQyEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "406372459"
     },
     {
       "id": "b0bdyy1f1s",
@@ -3733,7 +3900,8 @@
         }
       ],
       "totalPages": 217,
-      "coverUrl": "https://books.google.com/books/content?id=B5KIEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=B5KIEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065288702"
     },
     {
       "id": "b096zw8fby",
@@ -3748,7 +3916,8 @@
         }
       ],
       "totalPages": 222,
-      "coverUrl": "https://books.google.com/books/content?id=uowyEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=uowyEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784151832543"
     },
     {
       "id": "b0c3lv532y",
@@ -3774,7 +3943,8 @@
         }
       ],
       "totalPages": 223,
-      "coverUrl": "https://books.google.com/books/content?id=t4S7EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=t4S7EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088927671"
     },
     {
       "id": "b07fschxs9",
@@ -3799,7 +3969,8 @@
           "readingTimeMinutes": 16
         }
       ],
-      "coverUrl": "https://books.google.com/books/content?id=HgxmDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=HgxmDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784801963399"
     },
     {
       "id": "b07s6nqdqx",
@@ -3814,7 +3985,8 @@
           "readingTimeMinutes": 17
         }
       ],
-      "coverUrl": "https://books.google.com/books/content?id=pDuaDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=pDuaDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784801966277"
     },
     {
       "id": "b00kyeh7gw",
@@ -3839,7 +4011,8 @@
         }
       ],
       "totalPages": 177,
-      "coverUrl": "https://books.google.com/books/content?id=5sztCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=5sztCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784812483800"
     },
     {
       "id": "b09hk57r6z",
@@ -3910,7 +4083,8 @@
         }
       ],
       "totalPages": 171,
-      "coverUrl": "https://books.google.com/books/content?id=o-YhDAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=o-YhDAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784801955165"
     },
     {
       "id": "b00ztxkhs8",
@@ -3926,7 +4100,8 @@
         }
       ],
       "totalPages": 171,
-      "coverUrl": "https://books.google.com/books/content?id=wcztCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=wcztCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784801952744"
     },
     {
       "id": "b074c72gjc",
@@ -3944,7 +4119,8 @@
           "currentPage": 193,
           "readingTimeMinutes": 22
         }
-      ]
+      ],
+      "isbn": "9784801960114"
     },
     {
       "id": "b01my0ek67",
@@ -3960,7 +4136,8 @@
         }
       ],
       "totalPages": 171,
-      "coverUrl": "https://books.google.com/books/content?id=soNCDgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=soNCDgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784801957206"
     },
     {
       "id": "b00lcvy5so",
@@ -3974,7 +4151,8 @@
           "currentPage": 176,
           "readingTimeMinutes": 23
         }
-      ]
+      ],
+      "isbn": "9784812487167"
     },
     {
       "id": "b0d5qvtnnr",
@@ -4003,7 +4181,9 @@
           "currentPage": 596,
           "readingTimeMinutes": 56
         }
-      ]
+      ],
+      "isbn": "9784800592156",
+      "totalPages": 257
     },
     {
       "id": "b07vv2gz2h",
@@ -4164,7 +4344,8 @@
         }
       ],
       "totalPages": 153,
-      "coverUrl": "https://books.google.com/books/content?id=gBDrEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=gBDrEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784866213576"
     },
     {
       "id": "b0dcjdrw7g",
@@ -4179,7 +4360,8 @@
           "readingTimeMinutes": 23
         }
       ],
-      "isbn": "9784800592521"
+      "isbn": "9784800592521",
+      "totalPages": 422
     },
     {
       "id": "b0b3xd5hjb",
@@ -4238,7 +4420,8 @@
         }
       ],
       "totalPages": 217,
-      "coverUrl": "https://books.google.com/books/content?id=VlYyDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=VlYyDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784820719359"
     },
     {
       "id": "b0chj8rht7",
@@ -4298,7 +4481,8 @@
         }
       ],
       "totalPages": 195,
-      "coverUrl": "https://books.google.com/books/content?id=3kBDEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=3kBDEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088844923"
     },
     {
       "id": "b0fkrg2rl3",
@@ -4313,7 +4497,8 @@
         }
       ],
       "totalPages": 291,
-      "coverUrl": "https://books.google.com/books/content?id=8PJ1EQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=8PJ1EQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088847269"
     },
     {
       "id": "b0f489g4qf",
@@ -4412,7 +4597,9 @@
           "currentPage": 143,
           "readingTimeMinutes": 78330
         }
-      ]
+      ],
+      "isbn": "9784048931168",
+      "totalPages": 293
     },
     {
       "id": "b099922dml",
@@ -4626,7 +4813,8 @@
         }
       ],
       "totalPages": 201,
-      "coverUrl": "https://books.google.com/books/content?id=JodLEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=JodLEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088935096"
     },
     {
       "id": "b0d99xkp57",
@@ -4716,7 +4904,8 @@
         }
       ],
       "totalPages": 200,
-      "coverUrl": "https://books.google.com/books/content?id=x0IuEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=x0IuEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098515516"
     },
     {
       "id": "b08wc1rmks",
@@ -4741,7 +4930,8 @@
         }
       ],
       "totalPages": 201,
-      "coverUrl": "https://books.google.com/books/content?id=pfccEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=pfccEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098515509"
     },
     {
       "id": "b09cd1tdld",
@@ -4766,7 +4956,8 @@
         }
       ],
       "totalPages": 264,
-      "coverUrl": "https://books.google.com/books/content?id=r709EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=r709EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098520381"
     },
     {
       "id": "b09klq8lpd",
@@ -4792,7 +4983,8 @@
         }
       ],
       "totalPages": 202,
-      "coverUrl": "https://books.google.com/books/content?id=9V5LEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=9V5LEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098520398"
     },
     {
       "id": "b09s3chkh6",
@@ -4822,7 +5014,8 @@
         }
       ],
       "totalPages": 202,
-      "coverUrl": "https://books.google.com/books/content?id=kspeEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=kspeEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098520404"
     },
     {
       "id": "b0dl8k5m4d",
@@ -4967,7 +5160,8 @@
         }
       ],
       "totalPages": 199,
-      "coverUrl": "https://books.google.com/books/content?id=f9_wDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=f9_wDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065202241"
     },
     {
       "id": "b07w97lvxy",
@@ -4983,7 +5177,8 @@
         }
       ],
       "totalPages": 199,
-      "coverUrl": "https://books.google.com/books/content?id=8BSpDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=8BSpDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065167380"
     },
     {
       "id": "b0dmcjy6l7",
@@ -4999,7 +5194,8 @@
         }
       ],
       "totalPages": 209,
-      "coverUrl": "https://books.google.com/books/content?id=4sEvEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=4sEvEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065374771"
     },
     {
       "id": "b0blymv8d5",
@@ -5014,7 +5210,7 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784065297322"
     },
     {
       "id": "b077gkylf4",
@@ -5030,7 +5226,8 @@
         }
       ],
       "totalPages": 199,
-      "coverUrl": "https://books.google.com/books/content?id=s8Y-DwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=s8Y-DwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065103630"
     },
     {
       "id": "b0dpq52dzn",
@@ -5050,7 +5247,8 @@
         }
       ],
       "totalPages": 232,
-      "coverUrl": "https://books.google.com/books/content?id=Yno3EQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=Yno3EQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098541898"
     },
     {
       "id": "b00mnapq8q",
@@ -5066,7 +5264,8 @@
         }
       ],
       "totalPages": 198,
-      "coverUrl": "https://books.google.com/books/content?id=3WjKBQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=3WjKBQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063879926"
     },
     {
       "id": "b00xkm6tqo",
@@ -5082,7 +5281,8 @@
         }
       ],
       "totalPages": 198,
-      "coverUrl": "https://books.google.com/books/content?id=yoo_CQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=yoo_CQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063880441"
     },
     {
       "id": "b00hui0e4w",
@@ -5098,7 +5298,8 @@
         }
       ],
       "totalPages": 198,
-      "coverUrl": "https://books.google.com/books/content?id=uGjKBQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=uGjKBQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063879506"
     },
     {
       "id": "b017qw9g2m",
@@ -5113,8 +5314,8 @@
           "readingTimeMinutes": 16
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=GarkCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=GarkCgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063881011"
     },
     {
       "id": "b071z1kml3",
@@ -5129,8 +5330,8 @@
           "readingTimeMinutes": 24
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=FknUDgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=FknUDgAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063882599"
     },
     {
       "id": "b01lxhrbya",
@@ -5145,8 +5346,8 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=bJ4ODQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=bJ4ODQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784063881851"
     },
     {
       "id": "b07jcn2xny",
@@ -5162,7 +5363,8 @@
         }
       ],
       "totalPages": 199,
-      "coverUrl": "https://books.google.com/books/content?id=xZ5yDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=xZ5yDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784065131015"
     },
     {
       "id": "b076hjdzhq",
@@ -5224,7 +5426,7 @@
           "readingTimeMinutes": 17
         }
       ],
-      "totalPages": 561
+      "isbn": "9784822284763"
     },
     {
       "id": "b08jg488pb",
@@ -5269,8 +5471,8 @@
           "currentPage": 601
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=5mMrEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=5mMrEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088935751"
     },
     {
       "id": "b01fq5lkmu",
@@ -5290,7 +5492,6 @@
           "readingTimeMinutes": 18
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=rCkrDAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -5311,7 +5512,6 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=m5otEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -5327,8 +5527,8 @@
           "readingTimeMinutes": 37
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=6I_VDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=6I_VDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784569846675"
     },
     {
       "id": "b0ckv4zh8l",
@@ -5348,8 +5548,8 @@
           "readingTimeMinutes": 29
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=ZVHkEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ZVHkEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784756922946"
     },
     {
       "id": "b0djb5jksz",
@@ -5370,7 +5570,8 @@
         }
       ],
       "totalPages": 195,
-      "coverUrl": "https://books.google.com/books/content?id=4XglEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=4XglEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088843155"
     },
     {
       "id": "b0cwpxwcjw",
@@ -5389,7 +5590,6 @@
           "readingTimeMinutes": 17
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=NYb9EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -5410,7 +5610,6 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=UgnrEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -5439,7 +5638,6 @@
           "currentPage": 952
         }
       ],
-      "totalPages": 561,
       "isbn": "9784098614684",
       "coverUrl": "https://books.google.com/books/content?id=memXEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -5455,7 +5653,6 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561,
       "isbn": "9784047138117"
     },
     {
@@ -5475,7 +5672,6 @@
           "currentPage": 468
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=etAcEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -5490,8 +5686,7 @@
           "currentPage": 105,
           "readingTimeMinutes": 29
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0d59qjh66",
@@ -5510,7 +5705,6 @@
           "currentPage": 213
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=alMKEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -5544,8 +5738,7 @@
           "currentPage": 307,
           "readingTimeMinutes": 8
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0d59sln76",
@@ -5578,8 +5771,8 @@
           "readingTimeMinutes": 7
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=xdCEDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=xdCEDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088933030"
     },
     {
       "id": "b0d59q6kx3",
@@ -5593,8 +5786,8 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=eFMKEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=eFMKEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088841601"
     },
     {
       "id": "b0bt4nj4s5",
@@ -5608,7 +5801,7 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088834436"
     },
     {
       "id": "b0c9ld8bv4",
@@ -5622,8 +5815,8 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=UMTHEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=UMTHEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088836133"
     },
     {
       "id": "b0cm3c2w1n",
@@ -5637,8 +5830,8 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=2u_fEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=2u_fEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088837475"
     },
     {
       "id": "b0bgknn371",
@@ -5653,7 +5846,7 @@
           "readingTimeMinutes": 41
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088833057"
     },
     {
       "id": "b0cw1kc2k9",
@@ -5667,7 +5860,7 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088838984"
     },
     {
       "id": "b0cjrfzydn",
@@ -5700,8 +5893,8 @@
           "currentPage": 700
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=Aot1DwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=Aot1DwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088930022"
     },
     {
       "id": "b0c69b663c",
@@ -5735,7 +5928,6 @@
           "currentPage": 652
         }
       ],
-      "totalPages": 561,
       "isbn": "9784569632605",
       "coverUrl": "https://books.google.com/books/content?id=5f3WAAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -5751,8 +5943,8 @@
           "currentPage": 5
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=LRiUDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=LRiUDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088926308"
     },
     {
       "id": "b0bnl54nds",
@@ -5766,7 +5958,6 @@
           "currentPage": 5
         }
       ],
-      "totalPages": 561,
       "isbn": "9784087034615",
       "coverUrl": "https://books.google.com/books/content?id=u2m6DAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -5782,8 +5973,8 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=EQPdEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=EQPdEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088924298"
     },
     {
       "id": "b0dgl9hbr2",
@@ -5806,7 +5997,6 @@
           "currentPage": 193
         }
       ],
-      "totalPages": 561,
       "isbn": "9784098630332",
       "coverUrl": "https://books.google.com/books/content?id=ZtkhEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -5821,8 +6011,7 @@
           "date": "2024-10-06",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0cpdv1vgk",
@@ -5840,8 +6029,7 @@
           "date": "2024-09-29",
           "currentPage": 117
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01009rc1k",
@@ -5865,7 +6053,6 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561,
       "isbn": "9784777935475",
       "coverUrl": "https://books.google.com/books/content?id=P77XCQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -5887,8 +6074,8 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=H9sVEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=H9sVEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088933832"
     },
     {
       "id": "b0d2n3xj16",
@@ -5908,8 +6095,8 @@
           "readingTimeMinutes": 18
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=2U8EEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=2U8EEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088932668"
     },
     {
       "id": "b0d6mysnzk",
@@ -5933,8 +6120,8 @@
           "currentPage": 354
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=4YwOEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=4YwOEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098537785"
     },
     {
       "id": "b0cgj6lrwb",
@@ -5964,8 +6151,8 @@
           "readingTimeMinutes": 16
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=bbzSEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=bbzSEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088928647"
     },
     {
       "id": "b0cm3b1vwt",
@@ -5985,8 +6172,8 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=EPHfEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=EPHfEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088930718"
     },
     {
       "id": "b0ctby4f77",
@@ -6005,8 +6192,8 @@
           "currentPage": 210
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=dW_wEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=dW_wEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088932057"
     },
     {
       "id": "b0c698d5sy",
@@ -6026,8 +6213,8 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=J8rAEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=J8rAEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088927688"
     },
     {
       "id": "b08l8zvtp7",
@@ -6047,8 +6234,8 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=_VQDEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=_VQDEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784098515493"
     },
     {
       "id": "b0cw1lsym3",
@@ -6068,8 +6255,8 @@
           "readingTimeMinutes": 16
         }
       ],
-      "totalPages": 561,
-      "coverUrl": "https://books.google.com/books/content?id=XrqnEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=XrqnEQAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784088931722"
     },
     {
       "id": "b0cw1fvybv",
@@ -6084,7 +6271,6 @@
           "readingTimeMinutes": 24
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=gmn9EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -6115,7 +6301,6 @@
           "readingTimeMinutes": 1
         }
       ],
-      "totalPages": 561,
       "isbn": "9784815607852",
       "coverUrl": "https://books.google.com/books/content?id=dW6CEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -6142,7 +6327,6 @@
           "readingTimeMinutes": 20
         }
       ],
-      "totalPages": 561,
       "isbn": "9784098626182",
       "coverUrl": "https://books.google.com/books/content?id=thDpEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -6158,7 +6342,6 @@
           "currentPage": 1
         }
       ],
-      "totalPages": 561,
       "isbn": "9784098626892",
       "coverUrl": "https://books.google.com/books/content?id=Akr7EAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
@@ -6180,7 +6363,6 @@
           "readingTimeMinutes": 25
         }
       ],
-      "totalPages": 561,
       "coverUrl": "https://books.google.com/books/content?id=u-DaEAAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
     },
     {
@@ -6204,12 +6386,12 @@
           "readingTimeMinutes": 4
         }
       ],
-      "totalPages": 561
+      "isbn": "9784799327104"
     },
     {
       "id": "b0b7wls4b2",
-      "title": "",
-      "author": "",
+      "title": "アオアシ（２９） (ビッグコミックス)",
+      "author": "小林有吾",
       "asin": "B0B7WLS4B2",
       "progressType": "page",
       "sessions": [
@@ -6223,11 +6405,11 @@
           "readingTimeMinutes": 12
         }
       ],
-      "totalPages": 561
+      "isbn": "9784098520428"
     },
     {
       "id": "b00g9qj1dg",
-      "title": "",
+      "title": "Seasar2徹底入門 SAStruts/S2JDBC 対応",
       "author": "",
       "asin": "B00G9QJ1DG",
       "progressType": "page",
@@ -6247,11 +6429,11 @@
           "currentPage": 135
         }
       ],
-      "totalPages": 561
+      "isbn": "9784798121505"
     },
     {
       "id": "b09gtv35vj",
-      "title": "",
+      "title": "1日1問、半年以内に習得 シェル・ワンライナー160本ノック Software Design plus",
       "author": "",
       "asin": "B09GTV35VJ",
       "progressType": "page",
@@ -6700,12 +6882,11 @@
           "currentPage": 721,
           "readingTimeMinutes": 6
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0b1z9zmy6",
-      "title": "",
+      "title": "達人が教えるWebパフォーマンスチューニング 〜ISUCONから学ぶ高速化の実践",
       "author": "",
       "asin": "B0B1Z9ZMY6",
       "progressType": "page",
@@ -6747,11 +6928,11 @@
           "readingTimeMinutes": 4
         }
       ],
-      "totalPages": 561
+      "isbn": "9784297128463"
     },
     {
       "id": "b08t9bxsvd",
-      "title": "",
+      "title": "達人プログラマー ―熟達に向けたあなたの旅― 第2版",
       "author": "",
       "asin": "B08T9BXSVD",
       "progressType": "page",
@@ -6883,13 +7064,12 @@
           "date": "2023-08-30",
           "currentPage": 2000
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09zxs6xh6",
-      "title": "",
-      "author": "",
+      "title": "アオアシ（２８） (ビッグコミックス)",
+      "author": "小林有吾",
       "asin": "B09ZXS6XH6",
       "progressType": "page",
       "sessions": [
@@ -6898,12 +7078,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784098520411"
     },
     {
       "id": "b0c4tcz6h3",
-      "title": "",
-      "author": "",
+      "title": "アオアシ（３２） (ビッグコミックス)",
+      "author": "小林有吾",
       "asin": "B0C4TCZ6H3",
       "progressType": "page",
       "sessions": [
@@ -6917,12 +7097,12 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561
+      "isbn": "9784098530342"
     },
     {
       "id": "b0bdzgdm9j",
-      "title": "",
-      "author": "",
+      "title": "競技プログラミングの鉄則 (Compass Booksシリーズ)",
+      "author": "米田 優峻",
       "asin": "B0BDZGDM9J",
       "progressType": "page",
       "sessions": [
@@ -7016,11 +7196,11 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784839977504"
     },
     {
       "id": "b00ux9vjgw",
-      "title": "",
+      "title": "実践ドメイン駆動設計",
       "author": "",
       "asin": "B00UX9VJGW",
       "progressType": "page",
@@ -7069,12 +7249,12 @@
           "currentPage": 422
         }
       ],
-      "totalPages": 561
+      "isbn": "9784798131610"
     },
     {
       "id": "b0bvb96hy8",
-      "title": "",
-      "author": "",
+      "title": "アオアシ（３１） (ビッグコミックス)",
+      "author": "小林有吾",
       "asin": "B0BVB96HY8",
       "progressType": "page",
       "sessions": [
@@ -7088,11 +7268,11 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784098526628"
     },
     {
       "id": "b094j7zcjn",
-      "title": "",
+      "title": "詳解セキュリティコンテスト: CTFで学ぶ脆弱性攻略の技術 Compass Booksシリーズ",
       "author": "",
       "asin": "B094J7ZCJN",
       "progressType": "page",
@@ -7117,11 +7297,11 @@
           "readingTimeMinutes": 68
         }
       ],
-      "totalPages": 561
+      "isbn": "9784839973490"
     },
     {
       "id": "b07s675hvm",
-      "title": "",
+      "title": "「実践ドメイン駆動設計」から学ぶDDDの実装入門 CodeZine Digital First",
       "author": "",
       "asin": "B07S675HVM",
       "progressType": "page",
@@ -7147,12 +7327,12 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784798161501"
     },
     {
       "id": "b00dim6330",
-      "title": "",
-      "author": "",
+      "title": "達人に学ぶ SQL徹底指南書",
+      "author": "ミック",
       "asin": "B00DIM6330",
       "progressType": "page",
       "sessions": [
@@ -7174,12 +7354,12 @@
           "currentPage": 34
         }
       ],
-      "totalPages": 561
+      "isbn": "9784798157825"
     },
     {
       "id": "b00i8athgw",
-      "title": "",
-      "author": "",
+      "title": "増補改訂版 Java言語で学ぶデザインパターン入門",
+      "author": "結城 浩",
       "asin": "B00I8ATHGW",
       "progressType": "page",
       "sessions": [
@@ -7262,12 +7442,12 @@
           "currentPage": 220
         }
       ],
-      "totalPages": 561
+      "isbn": "9784797327038"
     },
     {
       "id": "b09y1mwk9n",
-      "title": "",
-      "author": "",
+      "title": "良いコード／悪いコードで学ぶ設計入門―保守しやすい 成長し続けるコードの書き方",
+      "author": "仙塲 大也",
       "asin": "B09Y1MWK9N",
       "progressType": "page",
       "sessions": [
@@ -7360,13 +7540,12 @@
           "currentPage": 3301,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09hk66p5x",
-      "title": "",
-      "author": "",
+      "title": "Java言語で学ぶデザインパターン入門第3版",
+      "author": "結城 浩",
       "asin": "B09HK66P5X",
       "progressType": "page",
       "sessions": [
@@ -7409,13 +7588,12 @@
           "currentPage": 302,
           "readingTimeMinutes": 23
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09p8d1x3c",
-      "title": "",
-      "author": "",
+      "title": "思考の枠を超える 自分の「思い込み」の外にある「アイデア」を見つける方法",
+      "author": "篠原信",
       "asin": "B09P8D1X3C",
       "progressType": "page",
       "sessions": [
@@ -7466,12 +7644,12 @@
           "currentPage": 327
         }
       ],
-      "totalPages": 561
+      "isbn": "9784534057716"
     },
     {
       "id": "b07j5y5nzc",
-      "title": "",
-      "author": "",
+      "title": "ビジネスモデル2.0図鑑 (中経出版)",
+      "author": "近藤 哲朗",
       "asin": "B07J5Y5NZC",
       "progressType": "page",
       "sessions": [
@@ -7485,7 +7663,7 @@
           "currentPage": 47
         }
       ],
-      "totalPages": 561
+      "isbn": "9784046023612"
     },
     {
       "id": "b09kn4lwmz",
@@ -7502,13 +7680,12 @@
           "date": "2023-05-20",
           "currentPage": 2
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0728k5jzv",
-      "title": "",
-      "author": "",
+      "title": "Webフロントエンド ハイパフォーマンス チューニング",
+      "author": "久保田 光則",
       "asin": "B0728K5JZV",
       "progressType": "page",
       "sessions": [
@@ -7536,12 +7713,12 @@
           "currentPage": 527
         }
       ],
-      "totalPages": 561
+      "isbn": "9784774189673"
     },
     {
       "id": "b09mvgm99l",
-      "title": "",
-      "author": "",
+      "title": "『プロになるためのWeb技術入門』――なぜ，あなたはWebシステムを開発できないのか",
+      "author": "小森 裕介",
       "asin": "B09MVGM99L",
       "progressType": "page",
       "sessions": [
@@ -7554,8 +7731,7 @@
           "date": "2023-05-07",
           "currentPage": 100
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07zqwkl2q",
@@ -7651,13 +7827,12 @@
           "currentPage": 1850,
           "readingTimeMinutes": 49
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0bzcxndd4",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（１０３） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B0BZCXNDD4",
       "progressType": "page",
       "sessions": [
@@ -7671,8 +7846,7 @@
           "currentPage": 425,
           "readingTimeMinutes": 23
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01gds0994",
@@ -7704,13 +7878,12 @@
           "date": "2023-04-08",
           "currentPage": 286
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0081wn65u",
-      "title": "",
-      "author": "",
+      "title": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
+      "author": "岩崎 夏海",
       "asin": "B0081WN65U",
       "progressType": "page",
       "sessions": [
@@ -7759,12 +7932,12 @@
           "readingTimeMinutes": 8
         }
       ],
-      "totalPages": 561
+      "isbn": "9784478012031"
     },
     {
       "id": "b00yx5jri4",
-      "title": "",
-      "author": "",
+      "title": "超一流の雑談力",
+      "author": "安田正",
       "asin": "B00YX5JRI4",
       "progressType": "page",
       "sessions": [
@@ -7787,12 +7960,12 @@
           "currentPage": 460
         }
       ],
-      "totalPages": 561
+      "isbn": "9784905073154"
     },
     {
       "id": "b0c15k5kmx",
-      "title": "",
-      "author": "",
+      "title": "半年で18キロ痩せた話 やしろあずきマンガ日記集",
+      "author": "やしろあずき",
       "asin": "B0C15K5KMX",
       "progressType": "page",
       "sessions": [
@@ -7801,13 +7974,12 @@
           "currentPage": 47,
           "readingTimeMinutes": 4
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0957b2sww",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 15 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0957B2SWW",
       "progressType": "page",
       "sessions": [
@@ -7827,11 +7999,11 @@
           "readingTimeMinutes": 16
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088913209"
     },
     {
       "id": "b081qy8kv7",
-      "title": "",
+      "title": "アメリカの高校生が学んでいるお金の教科書",
       "author": "",
       "asin": "B081QY8KV7",
       "progressType": "page",
@@ -7851,12 +8023,12 @@
           "currentPage": 121
         }
       ],
-      "totalPages": 561
+      "isbn": "9784815602918"
     },
     {
       "id": "b0957c96xm",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 16 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0957C96XM",
       "progressType": "page",
       "sessions": [
@@ -7876,12 +8048,12 @@
           "readingTimeMinutes": 1
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088913674"
     },
     {
       "id": "b0bp168n2d",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 25 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP168N2D",
       "progressType": "page",
       "sessions": [
@@ -7901,12 +8073,12 @@
           "readingTimeMinutes": 16
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088922522"
     },
     {
       "id": "b0bp164kbg",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 26 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP164KBG",
       "progressType": "page",
       "sessions": [
@@ -7926,12 +8098,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088923642"
     },
     {
       "id": "b0bksh7ggx",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ 28 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BKSH7GGX",
       "progressType": "page",
       "sessions": [
@@ -7951,12 +8123,12 @@
           "readingTimeMinutes": 21
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088925349"
     },
     {
       "id": "b00ake1v04",
-      "title": "",
-      "author": "",
+      "title": "Purely Functional Data Structures (English Edition)",
+      "author": "Chris Okasaki",
       "asin": "B00AKE1V04",
       "progressType": "page",
       "sessions": [
@@ -7966,12 +8138,12 @@
           "readingTimeMinutes": 1
         }
       ],
-      "totalPages": 561
+      "isbn": "9780521663502"
     },
     {
       "id": "b0bbtm3sls",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ 27 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BBTM3SLS",
       "progressType": "page",
       "sessions": [
@@ -7991,12 +8163,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088924304"
     },
     {
       "id": "b0bpbb1jnk",
-      "title": "",
-      "author": "",
+      "title": "天才読書 世界一の富を築いたマスク、ベゾス、ゲイツが選ぶ100冊",
+      "author": "山崎 良兵",
       "asin": "B0BPBB1JNK",
       "progressType": "page",
       "sessions": [
@@ -8015,12 +8187,12 @@
           "readingTimeMinutes": 2
         }
       ],
-      "totalPages": 561
+      "isbn": "9784296109579"
     },
     {
       "id": "b0bp15sxf9",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 24 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP15SXF9",
       "progressType": "page",
       "sessions": [
@@ -8044,12 +8216,12 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088921617"
     },
     {
       "id": "b09wr1z333",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（１０１） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B09WR1Z333",
       "progressType": "page",
       "sessions": [
@@ -8067,13 +8239,12 @@
           "currentPage": 417,
           "readingTimeMinutes": 21
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0bp17j7b4",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 22 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP17J7B4",
       "progressType": "page",
       "sessions": [
@@ -8093,12 +8264,12 @@
           "readingTimeMinutes": 5
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088918709"
     },
     {
       "id": "b0957d74hw",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 19 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0957D74HW",
       "progressType": "page",
       "sessions": [
@@ -8118,12 +8289,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088916460"
     },
     {
       "id": "b0957csjqc",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 17 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0957CSJQC",
       "progressType": "page",
       "sessions": [
@@ -8138,12 +8309,12 @@
           "readingTimeMinutes": 16
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088914572"
     },
     {
       "id": "b0bp16qt7f",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 21 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP16QT7F",
       "progressType": "page",
       "sessions": [
@@ -8163,12 +8334,12 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088917535"
     },
     {
       "id": "b0957bc19x",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 18 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0957BC19X",
       "progressType": "page",
       "sessions": [
@@ -8183,12 +8354,12 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088915272"
     },
     {
       "id": "b0bp16s8fv",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 20 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP16S8FV",
       "progressType": "page",
       "sessions": [
@@ -8203,12 +8374,12 @@
           "readingTimeMinutes": 19
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088917160"
     },
     {
       "id": "b09h6s8xsm",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（１００） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B09H6S8XSM",
       "progressType": "page",
       "sessions": [
@@ -8231,13 +8402,12 @@
           "currentPage": 432,
           "readingTimeMinutes": 23
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0bp16wrd3",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 23 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0BP16WRD3",
       "progressType": "page",
       "sessions": [
@@ -8252,12 +8422,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088920542"
     },
     {
       "id": "b0bc8jbw31",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（１０２） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B0BC8JBW31",
       "progressType": "page",
       "sessions": [
@@ -8266,13 +8436,12 @@
           "currentPage": 221,
           "readingTimeMinutes": 50
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b06y545nlm",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９２） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B06Y545NLM",
       "progressType": "page",
       "sessions": [
@@ -8281,13 +8450,12 @@
           "currentPage": 194,
           "readingTimeMinutes": 26
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b073wt32hf",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９３） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B073WT32HF",
       "progressType": "page",
       "sessions": [
@@ -8296,13 +8464,12 @@
           "currentPage": 195,
           "readingTimeMinutes": 26
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0827xnnf2",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９７） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B0827XNNF2",
       "progressType": "page",
       "sessions": [
@@ -8311,13 +8478,12 @@
           "currentPage": 195,
           "readingTimeMinutes": 31
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b08zct325h",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９９） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B08ZCT325H",
       "progressType": "page",
       "sessions": [
@@ -8326,13 +8492,12 @@
           "currentPage": 202,
           "readingTimeMinutes": 32
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07hws83f5",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９５） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B07HWS83F5",
       "progressType": "page",
       "sessions": [
@@ -8341,13 +8506,12 @@
           "currentPage": 220,
           "readingTimeMinutes": 28
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b086pw263w",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９８） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B086PW263W",
       "progressType": "page",
       "sessions": [
@@ -8356,13 +8520,12 @@
           "currentPage": 212,
           "readingTimeMinutes": 34
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01namuxg4",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９１） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B01NAMUXG4",
       "progressType": "page",
       "sessions": [
@@ -8371,13 +8534,12 @@
           "currentPage": 198,
           "readingTimeMinutes": 26
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0788k19tz",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９４） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B0788K19TZ",
       "progressType": "page",
       "sessions": [
@@ -8386,13 +8548,12 @@
           "currentPage": 194,
           "readingTimeMinutes": 31
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0957byq6r",
-      "title": "",
-      "author": "",
+      "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～ カラー版 14 (ヤングジャンプコミックスDIGITAL)",
+      "author": "赤坂アカ",
       "asin": "B0957BYQ6R",
       "progressType": "page",
       "sessions": [
@@ -8402,12 +8563,12 @@
           "readingTimeMinutes": 23
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088912318"
     },
     {
       "id": "b07q22d9h9",
-      "title": "",
-      "author": "",
+      "title": "名探偵コナン（９６） (少年サンデーコミックス)",
+      "author": "青山剛昌",
       "asin": "B07Q22D9H9",
       "progressType": "page",
       "sessions": [
@@ -8416,12 +8577,11 @@
           "currentPage": 209,
           "readingTimeMinutes": 28
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b089jxyqfg",
-      "title": "",
+      "title": "ヨーロッパ鉄道の旅 はじめてでもよく分かる (地球の歩き方GEM STONE)",
       "author": "",
       "asin": "B089JXYQFG",
       "progressType": "page",
@@ -8436,11 +8596,11 @@
           "currentPage": 115
         }
       ],
-      "totalPages": 561
+      "isbn": "9784058014967"
     },
     {
       "id": "b07yy2wv6k",
-      "title": "",
+      "title": "ジェームズ・クリアー式 複利で伸びる1つの習慣",
       "author": "",
       "asin": "B07YY2WV6K",
       "progressType": "page",
@@ -8482,12 +8642,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784775942154"
     },
     {
       "id": "b075v63nqr",
-      "title": "",
-      "author": "",
+      "title": "東京カレンダー 2018年 1月号 [雑誌]",
+      "author": "東京カレンダー編集部",
       "asin": "B075V63NQR",
       "progressType": "page",
       "sessions": [
@@ -8500,12 +8660,11 @@
           "currentPage": 184,
           "readingTimeMinutes": 24
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01i55szje",
-      "title": "",
+      "title": "ヒトはなぜ先延ばしをしてしまうのか",
       "author": "",
       "asin": "B01I55SZJE",
       "progressType": "page",
@@ -8519,12 +8678,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784484121116"
     },
     {
       "id": "b09tzz4z6b",
-      "title": "",
-      "author": "",
+      "title": "独学の思考法 地頭を鍛える「考える技術」 (講談社現代新書)",
+      "author": "山野弘樹",
       "asin": "B09TZZ4Z6B",
       "progressType": "page",
       "sessions": [
@@ -8533,12 +8692,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784065277522"
     },
     {
       "id": "b00gu4r7qa",
-      "title": "",
-      "author": "",
+      "title": "ざっくり分かるファイナンス～経営センスを磨くための財務～ (光文社新書)",
+      "author": "石野 雄一",
       "asin": "B00GU4R7QA",
       "progressType": "page",
       "sessions": [
@@ -8547,12 +8706,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784334033972"
     },
     {
       "id": "b00anwn5w0",
-      "title": "",
-      "author": "",
+      "title": "外資系コンサルのスライド作成術―図解表現２３のテクニック",
+      "author": "山口 周",
       "asin": "B00ANWN5W0",
       "progressType": "page",
       "sessions": [
@@ -8560,12 +8719,11 @@
           "date": "2022-12-26",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07vr1cchv",
-      "title": "",
+      "title": "ウォール街のランダム・ウォーカー 株式投資の不滅の真理 (日本経済新聞出版)",
       "author": "",
       "asin": "B07VR1CCHV",
       "progressType": "page",
@@ -8599,12 +8757,12 @@
           "currentPage": 131
         }
       ],
-      "totalPages": 561
+      "isbn": "9784532147891"
     },
     {
       "id": "b08jy292mc",
-      "title": "",
-      "author": "",
+      "title": "AI分析でわかった トップ5％社員の習慣 トップ5%シリーズ",
+      "author": "越川慎司",
       "asin": "B08JY292MC",
       "progressType": "page",
       "sessions": [
@@ -8616,13 +8774,12 @@
           "date": "2022-12-21",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09jk17c4k",
-      "title": "",
-      "author": "",
+      "title": "科学的に正しいダイエット 最高の教科書",
+      "author": "庵野 拓将",
       "asin": "B09JK17C4K",
       "progressType": "page",
       "sessions": [
@@ -8639,12 +8796,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784046048691"
     },
     {
       "id": "b01fse8d1k",
-      "title": "",
-      "author": "",
+      "title": "メタ思考トレーニング 発想力が飛躍的にアップする34問 PHPビジネス新書",
+      "author": "細谷 功",
       "asin": "B01FSE8D1K",
       "progressType": "page",
       "sessions": [
@@ -8661,11 +8818,11 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784569827735"
     },
     {
       "id": "b0bf469ylk",
-      "title": "",
+      "title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック",
       "author": "",
       "asin": "B0BF469YLK",
       "progressType": "page",
@@ -8678,13 +8835,12 @@
           "date": "2022-11-11",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01h1452ak",
-      "title": "",
-      "author": "",
+      "title": "超・箇条書き",
+      "author": "杉野 幹人",
       "asin": "B01H1452AK",
       "progressType": "page",
       "sessions": [
@@ -8693,11 +8849,11 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784478068670"
     },
     {
       "id": "b00tnzx8ys",
-      "title": "",
+      "title": "ロジカル・プレゼンテーション ― 自分の考えを効果的に伝える戦略コンサルタントの「提案の技術」",
       "author": "",
       "asin": "B00TNZX8YS",
       "progressType": "page",
@@ -8710,13 +8866,12 @@
           "date": "2022-11-06",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00f4pdb3e",
-      "title": "",
-      "author": "",
+      "title": "インベスターZ(1)",
+      "author": "三田紀房",
       "asin": "B00F4PDB3E",
       "progressType": "page",
       "sessions": [
@@ -8725,12 +8880,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784063872576"
     },
     {
       "id": "b0876whddf",
-      "title": "",
-      "author": "",
+      "title": "本当の自由を手に入れるお金の大学",
+      "author": "両＠リベ大学長",
       "asin": "B0876WHDDF",
       "progressType": "page",
       "sessions": [
@@ -8743,12 +8898,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784023318786"
     },
     {
       "id": "b07hxmx3bc",
-      "title": "",
-      "author": "",
+      "title": "頭のいい人は「図解思考」で考える！ (知的生きかた文庫)",
+      "author": "永田 豊志",
       "asin": "B07HXMX3BC",
       "progressType": "page",
       "sessions": [
@@ -8756,13 +8911,12 @@
           "date": "2022-10-12",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00i5bo4pi",
-      "title": "",
-      "author": "",
+      "title": "［カラー改訂版］頭がよくなる「図解思考」の技術 (中経出版)",
+      "author": "永田 豊志",
       "asin": "B00I5BO4PI",
       "progressType": "page",
       "sessions": [
@@ -8774,8 +8928,7 @@
           "date": "2022-10-12",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07kwsf8qf",
@@ -8796,13 +8949,12 @@
           "date": "2022-10-10",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09s38yt4f",
-      "title": "",
-      "author": "",
+      "title": "Notionで実現する新クリエイティブ仕事術 万能メモツールによる最高のインプット＆アウトプット できるビジネスシリーズ",
+      "author": "村上 臣",
       "asin": "B09S38YT4F",
       "progressType": "page",
       "sessions": [
@@ -8810,8 +8962,7 @@
           "date": "2022-10-08",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0bg4754p7",
@@ -8824,12 +8975,11 @@
           "date": "2022-10-07",
           "currentPage": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0b34p7cqg",
-      "title": "",
+      "title": "Moonshot（ムーンショット）～ファイザー 不可能を可能にする9か月間の闘いの内幕～",
       "author": "",
       "asin": "B0B34P7CQG",
       "progressType": "page",
@@ -8839,12 +8989,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784334962562"
     },
     {
       "id": "b07pqd5jmp",
-      "title": "",
-      "author": "",
+      "title": "苦しかったときの話をしようか",
+      "author": "森岡 毅",
       "asin": "B07PQD5JMP",
       "progressType": "page",
       "sessions": [
@@ -8869,11 +9019,11 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784478107829"
     },
     {
       "id": "b00ojvmk5o",
-      "title": "",
+      "title": "How Google Works (日本経済新聞出版)",
       "author": "",
       "asin": "B00OJVMK5O",
       "progressType": "page",
@@ -8883,12 +9033,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9781444792492"
     },
     {
       "id": "b09nxfqrd3",
-      "title": "",
-      "author": "",
+      "title": "問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本",
+      "author": "米田 優峻",
       "asin": "B09NXFQRD3",
       "progressType": "page",
       "sessions": [
@@ -8898,12 +9048,12 @@
           "readingTimeMinutes": 10
         }
       ],
-      "totalPages": 561
+      "isbn": "9784297125219"
     },
     {
       "id": "b092hdfjkk",
-      "title": "",
-      "author": "",
+      "title": "オブジェクト指向でなぜつくるのか 第３版 知っておきたいOOP、設計、アジャイル開発の基礎知識",
+      "author": "平澤 章",
       "asin": "B092HDFJKK",
       "progressType": "page",
       "sessions": [
@@ -8938,13 +9088,12 @@
           "date": "2022-08-26",
           "currentPage": 263
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b010cqd4y0",
-      "title": "",
-      "author": "",
+      "title": "10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics ＆IDEA)",
+      "author": "青木 峰郎",
       "asin": "B010CQD4Y0",
       "progressType": "page",
       "sessions": [
@@ -8974,11 +9123,11 @@
           "currentPage": 89
         }
       ],
-      "totalPages": 561
+      "isbn": "9784797376272"
     },
     {
       "id": "b06xknc9vp",
-      "title": "",
+      "title": "［新版］グロービスＭＢＡ経営戦略",
       "author": "",
       "asin": "B06XKNC9VP",
       "progressType": "page",
@@ -8991,13 +9140,12 @@
           "date": "2022-08-09",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09nbqhsms",
-      "title": "",
-      "author": "",
+      "title": "マンガ お金は寝かせて増やしなさい",
+      "author": "水瀬ケンイチ",
       "asin": "B09NBQHSMS",
       "progressType": "page",
       "sessions": [
@@ -9016,12 +9164,12 @@
           "currentPage": 192
         }
       ],
-      "totalPages": 561
+      "isbn": "9784866801605"
     },
     {
       "id": "b08hlfv2rv",
-      "title": "",
-      "author": "",
+      "title": "20代で得た知見",
+      "author": "F",
       "asin": "B08HLFV2RV",
       "progressType": "page",
       "sessions": [
@@ -9047,12 +9195,12 @@
           "currentPage": 90
         }
       ],
-      "totalPages": 561
+      "isbn": "9784046047991"
     },
     {
       "id": "b07dd6xbhn",
-      "title": "",
-      "author": "",
+      "title": "「イノベーターのジレンマ」の経済学的解明",
+      "author": "伊神 満",
       "asin": "B07DD6XBHN",
       "progressType": "page",
       "sessions": [
@@ -9061,12 +9209,12 @@
           "currentPage": 0
         }
       ],
-      "totalPages": 561
+      "isbn": "9784822255732"
     },
     {
       "id": "b09tvym685",
-      "title": "",
-      "author": "",
+      "title": "DIME (ダイム) 2022年 8月号 [雑誌]",
+      "author": "DIME編集部",
       "asin": "B09TVYM685",
       "progressType": "page",
       "sessions": [
@@ -9075,12 +9223,11 @@
           "currentPage": 40,
           "readingTimeMinutes": 10
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b075lckfll",
-      "title": "",
+      "title": "Web制作者のためのSassの教科書 改訂2版 Webデザインの現場で必須のCSSプリプロセッサ Web制作者のための教科書シリーズ",
       "author": "",
       "asin": "B075LCKFLL",
       "progressType": "page",
@@ -9090,12 +9237,11 @@
           "currentPage": 15,
           "readingTimeMinutes": 2
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07f8kz8sj",
-      "title": "",
+      "title": "Learn Better ― 頭の使い方が変わり、学びが深まる6つのステップ",
       "author": "",
       "asin": "B07F8KZ8SJ",
       "progressType": "page",
@@ -9150,12 +9296,11 @@
           "currentPage": 663,
           "readingTimeMinutes": 17
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00qr4cykm",
-      "title": "",
+      "title": "ザ・ゴール コミック版",
       "author": "",
       "asin": "B00QR4CYKM",
       "progressType": "page",
@@ -9166,12 +9311,12 @@
           "readingTimeMinutes": 32
         }
       ],
-      "totalPages": 561
+      "isbn": "9784478039397"
     },
     {
       "id": "b00ma671ww",
-      "title": "",
-      "author": "",
+      "title": "コンサル一年目が学ぶこと 新人・就活生からベテラン社員まで一生役立つ究極のベーシックスキル30選",
+      "author": "大石哲之",
       "asin": "B00MA671WW",
       "progressType": "page",
       "sessions": [
@@ -9190,12 +9335,12 @@
           "currentPage": 539
         }
       ],
-      "totalPages": 561
+      "isbn": "9784867763551"
     },
     {
       "id": "b00jdmposy",
-      "title": "",
-      "author": "",
+      "title": "Code Complete (Developer Best Practices) (English Edition)",
+      "author": "McConnell Steve",
       "asin": "B00JDMPOSY",
       "progressType": "page",
       "sessions": [
@@ -9214,11 +9359,11 @@
           "readingTimeMinutes": 1
         }
       ],
-      "totalPages": 561
+      "isbn": "9780735619678"
     },
     {
       "id": "b0732rrcwx",
-      "title": "",
+      "title": "やり抜く人の9つの習慣 コロンビア大学モチベーション心理学",
       "author": "",
       "asin": "B0732RRCWX",
       "progressType": "page",
@@ -9236,13 +9381,12 @@
           "currentPage": 79,
           "readingTimeMinutes": 16
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b074gwmrfc",
-      "title": "",
-      "author": "",
+      "title": "1440分の使い方 ──成功者たちの時間管理15の秘訣",
+      "author": "ケビン・クルーズ",
       "asin": "B074GWMRFC",
       "progressType": "page",
       "sessions": [
@@ -9270,13 +9414,12 @@
           "date": "2022-05-11",
           "currentPage": 391
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b085192lck",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(18):八月の悪夢・後",
+      "author": "かっぴー",
       "asin": "B085192LCK",
       "progressType": "page",
       "sessions": [
@@ -9286,12 +9429,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088828213"
     },
     {
       "id": "b08sbzk333",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(21):主人公の再生・中",
+      "author": "かっぴー",
       "asin": "B08SBZK333",
       "progressType": "page",
       "sessions": [
@@ -9301,12 +9444,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088832111"
     },
     {
       "id": "b08fdp7mqw",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(20):主人公の再生・前",
+      "author": "かっぴー",
       "asin": "B08FDP7MQW",
       "progressType": "page",
       "sessions": [
@@ -9316,12 +9459,12 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088831398"
     },
     {
       "id": "b09c8r6dws",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(23):最期の戰い・前",
+      "author": "かっぴー",
       "asin": "B09C8R6DWS",
       "progressType": "page",
       "sessions": [
@@ -9331,12 +9474,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088833491"
     },
     {
       "id": "b07z9cvcdn",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(16):八月の悪夢・前",
+      "author": "かっぴー",
       "asin": "B07Z9CVCDN",
       "progressType": "page",
       "sessions": [
@@ -9346,12 +9489,12 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088826615"
     },
     {
       "id": "b088lyd7sq",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(19):主人公の寂滅",
+      "author": "かっぴー",
       "asin": "B088LYD7SQ",
       "progressType": "page",
       "sessions": [
@@ -9361,12 +9504,12 @@
           "readingTimeMinutes": 11
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088830407"
     },
     {
       "id": "b084cycq5g",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(17):八月の悪夢・中",
+      "author": "かっぴー",
       "asin": "B084CYCQ5G",
       "progressType": "page",
       "sessions": [
@@ -9376,12 +9519,12 @@
           "readingTimeMinutes": 11
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088827773"
     },
     {
       "id": "b07xlt6sf4",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(15):七人の変人",
+      "author": "かっぴー",
       "asin": "B07XLT6SF4",
       "progressType": "page",
       "sessions": [
@@ -9391,12 +9534,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088826189"
     },
     {
       "id": "b0932lnxjs",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(22):主人公の再生・後",
+      "author": "かっぴー",
       "asin": "B0932LNXJS",
       "progressType": "page",
       "sessions": [
@@ -9406,12 +9549,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088832999"
     },
     {
       "id": "b07t65mhlc",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(14):平成の終わり",
+      "author": "かっぴー",
       "asin": "B07T65MHLC",
       "progressType": "page",
       "sessions": [
@@ -9421,12 +9564,12 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088824772"
     },
     {
       "id": "b07gw9mfnr",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（２）: アトリエのアテナ",
+      "author": "かっぴー",
       "asin": "B07GW9MFNR",
       "progressType": "page",
       "sessions": [
@@ -9436,12 +9579,12 @@
           "readingTimeMinutes": 11
         }
       ],
-      "totalPages": 561
+      "isbn": "9784910184036"
     },
     {
       "id": "b07kpd3sw4",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（１１）: 広告営業の奔走",
+      "author": "かっぴー",
       "asin": "B07KPD3SW4",
       "progressType": "page",
       "sessions": [
@@ -9451,12 +9594,12 @@
           "readingTimeMinutes": 10
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088821801"
     },
     {
       "id": "b07gwglxl1",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（６）: バンクシーのゲーム",
+      "author": "かっぴー",
       "asin": "B07GWGLXL1",
       "progressType": "page",
       "sessions": [
@@ -9466,12 +9609,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088817422"
     },
     {
       "id": "b07gwl99vy",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（８）: 物語の終わり",
+      "author": "かっぴー",
       "asin": "B07GWL99VY",
       "progressType": "page",
       "sessions": [
@@ -9481,12 +9624,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088820019"
     },
     {
       "id": "b07gwbnppz",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（９）: 左ききのエレン・前",
+      "author": "かっぴー",
       "asin": "B07GWBNPPZ",
       "progressType": "page",
       "sessions": [
@@ -9496,12 +9639,12 @@
           "readingTimeMinutes": 11
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088820095"
     },
     {
       "id": "b07gwqt4jp",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（１）: 横浜のバスキア",
+      "author": "かっぴー",
       "asin": "B07GWQT4JP",
       "progressType": "page",
       "sessions": [
@@ -9511,12 +9654,12 @@
           "readingTimeMinutes": 11
         }
       ],
-      "totalPages": 561
+      "isbn": "9784910184029"
     },
     {
       "id": "b07gwcjr4z",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（４）: 対岸の二人",
+      "author": "かっぴー",
       "asin": "B07GWCJR4Z",
       "progressType": "page",
       "sessions": [
@@ -9526,12 +9669,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784910184050"
     },
     {
       "id": "b07gwqls46",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（１０）: 左ききのエレン・後",
+      "author": "かっぴー",
       "asin": "B07GWQLS46",
       "progressType": "page",
       "sessions": [
@@ -9541,12 +9684,12 @@
           "readingTimeMinutes": 14
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088821085"
     },
     {
       "id": "b07s2vw85y",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(13):広告代理店の再開",
+      "author": "かっぴー",
       "asin": "B07S2VW85Y",
       "progressType": "page",
       "sessions": [
@@ -9556,12 +9699,12 @@
           "readingTimeMinutes": 9
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088823621"
     },
     {
       "id": "b07gwcf475",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（７）: 光一の現実",
+      "author": "かっぴー",
       "asin": "B07GWCF475",
       "progressType": "page",
       "sessions": [
@@ -9571,12 +9714,12 @@
           "readingTimeMinutes": 13
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088817811"
     },
     {
       "id": "b07gwmlqx6",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン（３）: 不夜城の兵隊",
+      "author": "かっぴー",
       "asin": "B07GWMLQX6",
       "progressType": "page",
       "sessions": [
@@ -9586,7 +9729,7 @@
           "readingTimeMinutes": 15
         }
       ],
-      "totalPages": 561
+      "isbn": "9784910184043"
     },
     {
       "id": "b07gwjj96d",
@@ -9600,13 +9743,12 @@
           "currentPage": 238,
           "readingTimeMinutes": 16
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07pm65vd7",
-      "title": "",
-      "author": "",
+      "title": "原作版 左ききのエレン(12):幻影のランウェイ",
+      "author": "かっぴー",
       "asin": "B07PM65VD7",
       "progressType": "page",
       "sessions": [
@@ -9616,11 +9758,11 @@
           "readingTimeMinutes": 10
         }
       ],
-      "totalPages": 561
+      "isbn": "9784088822761"
     },
     {
       "id": "b009nq7mia",
-      "title": "",
+      "title": "改訂新版 コンピュータの名著・古典 100冊",
       "author": "",
       "asin": "B009NQ7MIA",
       "progressType": "page",
@@ -9645,12 +9787,11 @@
           "currentPage": 258,
           "readingTimeMinutes": 10
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0868dr365",
-      "title": "",
+      "title": "RANGE（レンジ） 知識の「幅」が最強の武器になる",
       "author": "",
       "asin": "B0868DR365",
       "progressType": "page",
@@ -9734,12 +9875,12 @@
           "currentPage": 680
         }
       ],
-      "totalPages": 561
+      "isbn": "9784822288778"
     },
     {
       "id": "b094qqymnr",
-      "title": "",
-      "author": "",
+      "title": "仕事も人間関係もうまくいく放っておく力―――もっと「ドライ」でいい、99の理由 (知的生きかた文庫)",
+      "author": "枡野 俊明",
       "asin": "B094QQYMNR",
       "progressType": "page",
       "sessions": [
@@ -9748,12 +9889,12 @@
           "currentPage": 2
         }
       ],
-      "totalPages": 561
+      "isbn": "9784837987192"
     },
     {
       "id": "b08vmlj7lk",
-      "title": "",
-      "author": "",
+      "title": "マーケターのように生きろ―「あなたが必要だ」と言われ続ける人の思考と行動",
+      "author": "井上 大輔",
       "asin": "B08VMLJ7LK",
       "progressType": "page",
       "sessions": [
@@ -9766,12 +9907,11 @@
           "date": "2022-03-28",
           "currentPage": 43
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b08pf27trz",
-      "title": "",
+      "title": "実践Rustプログラミング入門",
       "author": "",
       "asin": "B08PF27TRZ",
       "progressType": "page",
@@ -9796,7 +9936,7 @@
           "currentPage": 126
         }
       ],
-      "totalPages": 561
+      "isbn": "9784798061702"
     },
     {
       "id": "b09n8q51q8",
@@ -9815,8 +9955,7 @@
           "currentPage": 438,
           "readingTimeMinutes": 15
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09n8qyyxy",
@@ -9829,8 +9968,7 @@
           "date": "2021-12-28",
           "currentPage": 12
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09n95hb9t",
@@ -9844,8 +9982,7 @@
           "currentPage": 215,
           "readingTimeMinutes": 9
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b09n8mch9n",
@@ -9858,8 +9995,7 @@
           "date": "2021-12-28",
           "currentPage": 18
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00cy9256c",
@@ -9923,8 +10059,7 @@
           "date": "2021-12-23",
           "currentPage": 410
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b079jlw5yn",
@@ -9937,8 +10072,7 @@
           "date": "2021-12-23",
           "currentPage": 4
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b079grs1z7",
@@ -9951,8 +10085,7 @@
           "date": "2021-12-23",
           "currentPage": 2
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07vqshn1h",
@@ -9966,8 +10099,7 @@
           "currentPage": 83,
           "readingTimeMinutes": 12
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00jp3222m",
@@ -9990,8 +10122,7 @@
           "currentPage": 190,
           "readingTimeMinutes": 19
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07jydcr4t",
@@ -10010,8 +10141,7 @@
           "currentPage": 500,
           "readingTimeMinutes": 82
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00irrtfng",
@@ -10075,8 +10205,7 @@
           "currentPage": 489,
           "readingTimeMinutes": 5
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0826s9brq",
@@ -10090,8 +10219,7 @@
           "currentPage": 33,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b08j2lzfzb",
@@ -10105,8 +10233,7 @@
           "currentPage": 41,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b086d7lbgf",
@@ -10120,8 +10247,7 @@
           "currentPage": 40,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b08f2dxb9g",
@@ -10135,8 +10261,7 @@
           "currentPage": 45,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07vsngkwh",
@@ -10150,8 +10275,7 @@
           "currentPage": 35,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b083dlh8jk",
@@ -10165,8 +10289,7 @@
           "currentPage": 34,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b08945x5jf",
@@ -10180,8 +10303,7 @@
           "currentPage": 44,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07vsfl4nt",
@@ -10195,8 +10317,7 @@
           "currentPage": 60,
           "readingTimeMinutes": 3
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b086szbpyr",
@@ -10210,8 +10331,7 @@
           "currentPage": 37,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b084gj1bkh",
@@ -10225,8 +10345,7 @@
           "currentPage": 36,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07yjn3pfs",
@@ -10240,8 +10359,7 @@
           "currentPage": 36,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07vsngrgy",
@@ -10255,8 +10373,7 @@
           "currentPage": 41,
           "readingTimeMinutes": 2
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ca07ubu",
@@ -10279,8 +10396,7 @@
           "currentPage": 154,
           "readingTimeMinutes": 5
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ca07jj8",
@@ -10294,8 +10410,7 @@
           "currentPage": 127,
           "readingTimeMinutes": 20
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ca07jkw",
@@ -10309,8 +10424,7 @@
           "currentPage": 130,
           "readingTimeMinutes": 22
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ca07jlg",
@@ -10333,8 +10447,7 @@
           "date": "2020-07-16",
           "currentPage": 161
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ca07jkc",
@@ -10348,8 +10461,7 @@
           "currentPage": 128,
           "readingTimeMinutes": 19
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ocf5yua",
@@ -10411,8 +10523,7 @@
           "currentPage": 1173,
           "readingTimeMinutes": 27
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00isp0qb2",
@@ -10456,8 +10567,7 @@
           "currentPage": 1817,
           "readingTimeMinutes": 39
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b06xzsh7q9",
@@ -10521,8 +10631,7 @@
           "currentPage": 1116,
           "readingTimeMinutes": 18
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07jglqm2g",
@@ -10549,8 +10658,7 @@
           "date": "2020-03-25",
           "currentPage": 123
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01euc17sw",
@@ -10569,8 +10677,7 @@
           "currentPage": 67,
           "readingTimeMinutes": 21
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b009demakm",
@@ -10608,8 +10715,7 @@
           "date": "2020-01-19",
           "currentPage": 503
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07ffts31g",
@@ -10645,8 +10751,7 @@
           "date": "2020-01-12",
           "currentPage": 190
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b010ayay3s",
@@ -10665,8 +10770,7 @@
           "currentPage": 301,
           "readingTimeMinutes": 12
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b010ayawfi",
@@ -10685,8 +10789,7 @@
           "currentPage": 301,
           "readingTimeMinutes": 16
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b07brt5372",
@@ -10704,8 +10807,7 @@
           "date": "2019-12-04",
           "currentPage": 30
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00grkd6xu",
@@ -10753,8 +10855,7 @@
           "date": "2019-10-04",
           "currentPage": 1424
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00judfndw",
@@ -10767,8 +10868,7 @@
           "date": "2019-09-29",
           "currentPage": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00i8pibeg",
@@ -10786,8 +10886,7 @@
           "date": "2019-09-18",
           "currentPage": 76
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00fr78x64",
@@ -10818,8 +10917,7 @@
           "currentPage": 62,
           "readingTimeMinutes": 1
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0081bbey6",
@@ -10850,8 +10948,7 @@
           "date": "2019-09-17",
           "currentPage": 357
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b010ayb1to",
@@ -10864,8 +10961,7 @@
           "date": "2019-09-03",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00yrctgxe",
@@ -10879,8 +10975,7 @@
           "currentPage": 304,
           "readingTimeMinutes": 45
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01jiohi6m",
@@ -10893,8 +10988,7 @@
           "date": "2019-08-30",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b010a8whfc",
@@ -10908,8 +11002,7 @@
           "currentPage": 23,
           "readingTimeMinutes": 3
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00uaak07s",
@@ -10962,8 +11055,7 @@
           "currentPage": 637,
           "readingTimeMinutes": 21
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b007tt5lh2",
@@ -10977,8 +11069,7 @@
           "currentPage": 464,
           "readingTimeMinutes": 96
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00e4u62po",
@@ -10996,8 +11087,7 @@
           "date": "2018-09-20",
           "currentPage": 307
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01czk0b2y",
@@ -11011,8 +11101,7 @@
           "currentPage": 263,
           "readingTimeMinutes": 60
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00s1l4h2w",
@@ -11041,8 +11130,7 @@
           "date": "2018-09-19",
           "currentPage": 7
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01emwrpsq",
@@ -11056,8 +11144,7 @@
           "currentPage": 221,
           "readingTimeMinutes": 20
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00fb22eds",
@@ -11070,8 +11157,7 @@
           "date": "2018-09-18",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b06wd8pxw3",
@@ -11085,8 +11171,7 @@
           "currentPage": 136,
           "readingTimeMinutes": 27
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00ytgrafo",
@@ -11099,8 +11184,7 @@
           "date": "2018-09-18",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01n0aef3u",
@@ -11113,8 +11197,7 @@
           "date": "2018-09-18",
           "currentPage": 0
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00h6xbhom",
@@ -11127,8 +11210,7 @@
           "date": "2018-09-18",
           "currentPage": 2
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b0797k44ch",
@@ -11147,8 +11229,7 @@
           "currentPage": 328,
           "readingTimeMinutes": 48
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b00e5tj120",
@@ -11166,8 +11247,7 @@
           "date": "2018-09-15",
           "currentPage": 29
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b017sh8gz8",
@@ -11188,7 +11268,8 @@
         }
       ],
       "totalPages": 137,
-      "coverUrl": "https://books.google.com/books/content?id=ycSjDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api"
+      "coverUrl": "https://books.google.com/books/content?id=ycSjDwAAQBAJ&printsec=frontcover&img=1&zoom=0&source=gbs_api",
+      "isbn": "9784822279981"
     },
     {
       "id": "b01b768qjw",
@@ -11202,8 +11283,7 @@
           "currentPage": 33,
           "readingTimeMinutes": 2
         }
-      ],
-      "totalPages": 561
+      ]
     },
     {
       "id": "b01hgipiak",
@@ -11224,8 +11304,7 @@
           "date": "2017-12-24",
           "currentPage": 5
         }
-      ],
-      "totalPages": 561
+      ]
     }
   ]
 }
