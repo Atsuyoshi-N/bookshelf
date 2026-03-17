@@ -25,6 +25,9 @@ jobs:
       - run: npm run build
         env:
           GITHUB_PAGES: "true"
+          AMAZON_ASSOCIATE_TAG: ${{ vars.AMAZON_ASSOCIATE_TAG }}
+      - name: Verify associate tag in build output
+        run: grep -r "tag=" out/books/ | head -3 || echo "No associate tag found in output"
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
