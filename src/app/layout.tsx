@@ -29,6 +29,13 @@ export default function RootLayout({
           </div>
         </header>
         <main className="max-w-6xl mx-auto px-4 py-8">{children}</main>
+        <footer className="border-t border-card-border mt-12">
+          <div className="max-w-6xl mx-auto px-4 py-6">
+            <p className="text-xs text-muted">
+              本サイトはAmazonアソシエイト・プログラムに参加しています。Amazon.co.jpを通じて商品をご購入いただくことで、売上の一部が還元されることがあります。
+            </p>
+          </div>
+        </footer>
       </body>
     </html>
   );
